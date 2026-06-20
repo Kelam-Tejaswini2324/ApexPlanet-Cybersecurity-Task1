@@ -1,0 +1,31 @@
+# Cryptography Basics
+
+## Symmetric Encryption
+
+Uses the same key for encryption and decryption.
+
+## Asymmetric Encryption
+
+Uses a public key for encryption and a private key for decryption.
+
+## Hashing
+
+### MD5
+
+Produces a fixed-length hash value.
+
+### SHA-256
+
+A stronger hashing algorithm commonly used for integrity verification.
+
+## SSL/TLS
+
+Protocols used to secure communication over the internet.
+
+## Digital Certificates
+
+Used to verify the identity of websites and establish trust.
+
+Learning Outcome
+
+Learned basic encryption, hashing, and secure communication concepts.

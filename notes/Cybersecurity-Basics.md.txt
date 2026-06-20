@@ -1,0 +1,56 @@
+# Cybersecurity Basics
+
+## CIA Triad
+
+### Confidentiality
+
+Ensures that information is accessible only to authorized users.
+
+### Integrity
+
+Ensures that data remains accurate and unaltered.
+
+### Availability
+
+Ensures systems and information remain accessible when needed.
+
+## Common Threats
+
+### Phishing
+
+Fraudulent attempts to steal sensitive information.
+
+### Malware
+
+Malicious software designed to damage or compromise systems.
+
+### DDoS
+
+Distributed Denial of Service attack that overwhelms a system with traffic.
+
+### SQL Injection
+
+Attack that manipulates database queries through user input.
+
+### Ransomware
+
+Malware that encrypts files and demands payment for recovery.
+
+## Attack Vectors
+
+### Social Engineering
+
+Manipulating people into revealing sensitive information.
+
+### Insider Threats
+
+Threats originating from authorized users within an organization.
+
+### Wireless Attacks
+
+Attacks targeting Wi-Fi and wireless communication systems.
+
+
+Learning Outcome
+
+Learned the core principles of cybersecurity and common cyber threats.

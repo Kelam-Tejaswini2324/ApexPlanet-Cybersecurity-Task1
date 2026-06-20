@@ -1,0 +1,21 @@
+# Linux Cheat Sheet
+
+pwd - Show current directory
+
+ls - List files and folders
+
+cd - Change directory
+
+mkdir - Create directory
+
+touch - Create file
+
+ip a - Display network information
+
+ping - Test network connectivity
+
+nmap - Network scanning tool
+
+wireshark - Packet analysis tool
+
+nc - Netcat networking utility
